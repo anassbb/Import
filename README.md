@@ -1,4 +1,4 @@
-# Kata C# - Import Data Files
+# C# - Import Data Files
 
 Moteur d'import générique qui lit les mêmes données métier depuis plusieurs formats de fichiers
 et les convertit en une représentation JSON commune.
